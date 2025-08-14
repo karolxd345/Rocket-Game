@@ -1,1 +1,1 @@
-Go to MacOS.app > Contents > MacOS --> Rocket Boost
+You need to go to MacOS.app > Contents > MacOS --> Rocket Boost
