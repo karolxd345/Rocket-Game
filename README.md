@@ -30,3 +30,14 @@ Have fun playing my first game!
 * Improved lighting.
 
 * Tidied up the code.
+
+
+
+<- Release 1.1.3 ->
+
+* Fixed Bugs:
+  * Diffrent particles emission rate
+  * Not working Escape key
+
+
+
