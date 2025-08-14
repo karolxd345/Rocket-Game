@@ -19,3 +19,14 @@ Have fun playing my first game!
 
 
 * Inplemented Crash and Success particles.
+  
+
+
+<- Release 1.1.2 ->
+
+
+* Implemented particles for main engine and side thrusters.
+
+* Improved lighting.
+
+* Tidied up the code.
