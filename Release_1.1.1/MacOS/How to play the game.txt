@@ -1,0 +1,1 @@
+Go to MacOS.app > Contents > MacOS --> Rocket Boost
