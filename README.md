@@ -15,6 +15,9 @@ There've not been implemented any additional moving obstacles, so it might be ha
 Have fun playing my first game!
 
 
+<<Release 1.1 was skipped>>
+
+
 ← Release 1.1.1 →
 
 
