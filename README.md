@@ -15,6 +15,9 @@ There've not been implemented any additional moving obstacles, so it might be ha
 Have fun playing my first game!
 
 
+<<Release 1.1 was skipped>>
+
+
 ← Release 1.1.1 →
 
 
@@ -36,8 +39,16 @@ Have fun playing my first game!
 <- Release 1.1.3 ->
 
 * Fixed Bugs:
-  * Diffrent particles emission rate
-  * Not working Escape key
+   * Different particles emission rate
+   * Not working Escape key
 
 
+
+<- Release 1.2 ->
+
+* Improved camera follow
+
+* Implemented Debug Keys (not Accessible)
+
+* Dressed up the background a little
 
