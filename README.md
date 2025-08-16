@@ -62,5 +62,20 @@ This game reached it's end.
 For now, the game won't be supported in the future.
 I really enjoyed working on this game, so -I suppose- you did playing this game.
 It's the end of this game, but I will be making more games; to play more of my games watch my repos, bc there might be more games made by me.
+For the last time in this game - 
+
+What's new:
+
+* Compeletly Rethinked lighting; Post-Processing
+
+* Glowing Boxes at the end and the start
+
+* Added front light for the rocket
+
+What WASN't added in the game and why:
+
+* Moving obstacles - when I changed the physics, the game became harder enough, that it was unecessary to add additional hazards.
+
+That's all for this game, see you in the next projects.
 
 
