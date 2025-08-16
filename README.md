@@ -52,3 +52,15 @@ Have fun playing my first game!
 
 * Dressed up the background a little
 
+* Refined the physics
+
+
+
+<<--- FULL GAME --->>
+
+This game reached it's end.
+For now, the game won't be supported in the future.
+I really enjoyed working on this game, so -I suppose- you did playing this game.
+It's the end of this game, but I will be making more games; to play more of my game watch my repos, bc there might be more games made by me.
+
+
